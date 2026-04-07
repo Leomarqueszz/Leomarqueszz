@@ -17,7 +17,7 @@ Curioso e sempre codando!</p>
 
 ###
 
-<h2 align="left">🛠️Language and tools</h2>
+<h2 align="left">🛠️Skills / Ferramentas</h2>
 
 ###
 
