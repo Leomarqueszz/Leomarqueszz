@@ -18,8 +18,7 @@
 <h1 align="center">👨‍💻 Leonardo Marques - Leomarqueszz</h1>
 
 <p align="center">
-<b>Análise e Desenvolvimento de Sistemas</b><br>
-Transformando dados bagunçados em insights claros e dashboards eficientes
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00c6ff&center=true&vCenter=true&width=500&lines=Transformando+dados+em+insights+claros;Especialista+em+Dashboards+Eficientes;Estudante+de+IA+e+Python" alt="Typing SVG" />
 </p>
 
 <br><br> ### Hey there 👋
@@ -31,35 +30,5 @@ Atualmente aprendendo <b>Python, SQL, Power BI e Machine Learning</b> e adoro tr
 Sempre curioso, sempre codando!
 </p>
 
-<br><br> ### 🛠️ Skills & Ferramentas
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="25"/>
-  <img width="6"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" height="25"/>
-  <img width="6"/>
-  <img src="https://img.shields.io/badge/Databases-005A9C?style=for-the-badge&logo=mysql&logoColor=white" alt="Database" height="25"/>
-  <img width="6"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" alt="Power BI" height="25"/>
-  <img width="6"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" height="25"/>
-</p>
-
-<br><br> ### 📈 Projetos / Dashboards
-
 <p align="center">
-  <a href="https://github.com/leomarqueszz/projeto-exemplo" target="_blank">
-    <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" height="150" alt="Dashboard Example" />
-  </a>
-  <a href="https://github.com/leomarqueszz/projeto-exemplo2" target="_blank">
-    <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" height="150" alt="Dashboard Example 2" />
-  </a>
-</p>
-  
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=80&section=footer&fontSize=0" width="100%" />
-</p>
-
-</td>
-</tr>
-</table>
+  <img height="18
