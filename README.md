@@ -18,7 +18,9 @@
 Transformando dados bagunçados em insights claros e dashboards eficientes
 </p>
 
-<br><br> ### Hey there 👋
+<br><br> <!-- aqui adiciona espaço extra -->
+
+### Hey there 👋
 
 <p>
 Oii! Sou aluno da <b>Universidade Cruzeiro do Sul</b>, cursando <b>Análise e Desenvolvimento de Sistemas</b>.  
@@ -27,7 +29,9 @@ Atualmente aprendendo <b>Python, SQL, Power BI e Machine Learning</b> e adoro tr
 Sempre curioso, sempre codando!
 </p>
 
-<br><br> ### 🛠️ Skills & Ferramentas
+<br><br> <!-- aqui adiciona espaço extra -->
+  
+### 🛠️ Skills & Ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="25"/>
@@ -41,7 +45,9 @@ Sempre curioso, sempre codando!
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" height="25"/>
 </p>
 
-<br><br> ### 📈 Projetos / Dashboards
+<br><br> <!-- aqui adiciona espaço extra -->
+
+### 📈 Projetos / Dashboards
 
 <p align="center">
   <a href="https://github.com/leomarqueszz/projeto-exemplo" target="_blank">
@@ -50,7 +56,11 @@ Sempre curioso, sempre codando!
   <a href="https://github.com/leomarqueszz/projeto-exemplo2" target="_blank">
     <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" height="150" alt="Dashboard Example 2" />
   </a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=80&section=footer&fontSize=0" width="100%" />
 </p>
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=80&section=footer&fontSize=0" width="100%" />
