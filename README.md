@@ -49,14 +49,13 @@ Sempre curioso, sempre codando!
 ### 📈 Projetos / Dashboards
 
 <p align="center">
-  <a href="https://github.com/leomarqueszz/projeto-exemplo" target="_blank">
-    <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" height="150" alt="Coding animation" />
+  <a href="https://github.com/leomarqueszz/dashboard-vendas" target="_blank">
+    <img src="https://user-images.githubusercontent.com/SEU_USER/dashboard-vendas-preview.png" height="150" alt="Dashboard de Vendas" />
   </a>
-  <a href="https://github.com/leomarqueszz/projeto-exemplo2" target="_blank">
-    <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" height="150" alt="Data analysis chart animation" />
+  <a href="https://github.com/leomarqueszz/user-analytics-dashboard" target="_blank">
+    <img src="https://user-images.githubusercontent.com/SEU_USER/user-analytics-preview.png" height="150" alt="Dashboard de Análise de Usuários" />
   </a>
 </p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=80&section=footer&fontSize=0" width="100%" />
