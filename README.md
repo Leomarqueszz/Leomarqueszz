@@ -32,15 +32,14 @@ Sempre curioso, sempre codando!
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="25"/>
   <img width="6"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" height="25"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" height="25"/>
   <img width="6"/>
-  <img src="https://img.shields.io/badge/Databases-005A9C?style=for-the-badge&logo=postgresql&logoColor=white" alt="Database" height="25"/>
+  <img src="https://img.shields.io/badge/Databases-005A9C?style=for-the-badge&logo=mysql&logoColor=white" alt="Database" height="25"/>
   <img width="6"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" alt="Power BI" height="25"/>
   <img width="6"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" height="25"/>
 </p>
-
 ---
 
 <h2 align="left">📈 Projetos / Dashboards</h2>
