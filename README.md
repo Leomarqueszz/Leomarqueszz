@@ -55,7 +55,11 @@ Sempre curioso, sempre codando!
   <a href="https://github.com/leomarqueszz/projeto-exemplo2" target="_blank">
     <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" height="150" alt="Dashboard Example 2" />
   </a>
-  
+  </p>
+
+<p align="center">
+  <img src="https://github-readme-snake.vercel.app/api/github-contribution-grid-snake?user=leomarqueszz&outline-color=00c6ff&snake-color=0072ff" alt="snake" />
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=80&section=footer&fontSize=0" width="100%" />
 </p>
