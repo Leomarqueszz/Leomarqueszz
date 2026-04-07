@@ -1,25 +1,28 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/leonardomarques-silva" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
   <a href="https://github.com/leomarqueszz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub" />
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="GitHub" />
   </a>
 </div>
 
 <h1 align="center">👨‍💻 Leonardo Marques - Leomarqueszz</h1>
 
-<p align="center">Aluno de Análise de Dados na <b>Cruzeiro do Sul</b> | Buscando me profissionalizar como Analista de Dados e em Inteligência Artificial (IA)</p>
+<p align="center">
+Aluno de <b>Análise de Dados</b> na <b>Cruzeiro do Sul</b> | Buscando me profissionalizar como Analista de Dados e em Inteligência Artificial (IA) <br>
+💡 Transformando dados bagunçados em insights claros e dashboards eficientes
+</p>
 
 ---
 
-<h3 align="left">Hey there 👋</h3>
+<h2 align="left">Hey there 👋</h2>
 
 <p align="left">
-Oii, sou aluno da <b>Cruzeiro do Sul</b>, cursando <b>Análise de Dados</b>.  
-Busco me profissionalizar como <b>Analista de Dados</b> e em <b>Inteligência Artificial (IA)</b>.  
-Atualmente estou aprendendo <b>Python, SQL, Power BI e Machine Learning</b> e adoro transformar dados bagunçados em insights claros e dashboards eficientes.  
-Curioso e sempre codando!
+Oii! Sou aluno da <b>Cruzeiro do Sul</b>, cursando <b>Análise de Dados</b>.  
+Busco me profissionalizar como Analista de Dados e em Inteligência Artificial (IA).  
+Atualmente aprendendo <b>Python, SQL, Power BI e Machine Learning</b> e adoro transformar dados em insights claros.  
+Sempre curioso, sempre codando!
 </p>
 
 ---
@@ -53,4 +56,28 @@ Curioso e sempre codando!
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=leomarqueszz&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leomarqueszz&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+<h2 align="left">📈 Projetos / Dashboards</h2>
+
+<p align="center">
+  <a href="https://github.com/leomarqueszz/projeto-exemplo" target="_blank">
+    <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" height="150" alt="Dashboard Example" />
+  </a>
+  <a href="https://github.com/leomarqueszz/projeto-exemplo2" target="_blank">
+    <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" height="150" alt="Dashboard Example 2" />
+  </a>
+</p>
+
+---
+
+<h2 align="left">🎯 Timeline de aprendizado</h2>
+
+<p align="left">
+📅 2025: Início em Python, SQL e Machine Learning <br>
+📅 2026: Primeiros dashboards no Power BI <br>
+📅 2026: Projetos de análise de dados com datasets reais <br>
+📅 2026: Especialização em Inteligência Artificial
 </p>
