@@ -29,7 +29,7 @@ Sempre curioso, sempre codando!
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomarqueszz&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomarqueszz&layout=donut-vertical&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="300" />
 </p>
 
 <br><br> <!-- aqui adiciona espaço extra -->
