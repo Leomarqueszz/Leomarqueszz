@@ -1,4 +1,4 @@
-# 👋 Oii, eu sou o Leonardo Silva
+a# 👋 Oii, eu sou o Leonardo Silva
 
 Sou estudante de **Análise de Dados** na **Cruzeiro do Sul**, apaixonado por **Dados, Inteligência Artificial (IA)** e **Machine Learning**.  
 Transformo dados bagunçados em **insights claros e dashboards eficientes**.  
