@@ -54,5 +54,5 @@ Sempre curioso, sempre codando!
   </a>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=60&section=footer&fontSize=0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=80&section=footer&fontSize=0" width="100%" />
 </p>
