@@ -14,8 +14,6 @@
 Transformando dados bagunçados em insights claros e dashboards eficientes
 </p>
 
-<br><br> <!-- espaço extra antes da próxima seção -->
-
 ### Hey there 👋
 
 <p>
