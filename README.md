@@ -17,7 +17,10 @@
 <b>Análise e Desenvolvimento de Sistemas</b><br>
 Transformando dados bagunçados em insights claros e dashboards eficientes
 </p>
-
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=leomarqueszz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomarqueszz&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
 <br><br> <!-- aqui adiciona espaço extra -->
 
 ### Hey there 👋
