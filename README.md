@@ -2,7 +2,7 @@
 <h1 align="center">👨‍💻Leonardo Marques - Leomarqueszz</h1>
 
 ###
-<p align="left"> Análise e Desenvolvimento de Sistemas</p>
+<p align="center">Análise e Desenvolvimento de Sistemas</p>
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
