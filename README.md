@@ -14,6 +14,8 @@
 Transformando dados bagunçados em insights claros e dashboards eficientes
 </p>
 
+---
+
 ### Hey there 👋
 
 <p>
@@ -22,6 +24,8 @@ Busco me profissionalizar como Analista de Dados e em Inteligência Artificial (
 Atualmente aprendendo <b>Python, SQL, Power BI e Machine Learning</b> e adoro transformar dados em ótimos insights.  
 Sempre curioso, sempre codando!
 </p>
+
+---
 
 ### 🛠️ Skills & Ferramentas
 
@@ -36,6 +40,8 @@ Sempre curioso, sempre codando!
   <img width="6"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" height="25"/>
 </p>
+
+---
 
 ### 📈 Projetos / Dashboards
 
