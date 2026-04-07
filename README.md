@@ -5,7 +5,7 @@
 
 ###
 <p align="center">Análise e Desenvolvimento de Sistemas</p>
-<h3 align="left">👩‍💻  Hey there👋</h3>
+<h3 align="left">Hey there👋</h3>
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
