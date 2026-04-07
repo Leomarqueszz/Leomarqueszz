@@ -50,20 +50,14 @@ Sempre curioso, sempre codando!
 
 <p align="center">
   <a href="https://github.com/leomarqueszz/projeto-exemplo" target="_blank">
-    <img src="https://user-images.githubusercontent.com/123456789/abcdefg-dashboard1.png" height="150" alt="Dashboard de Vendas" />
-    <br>
-    <b>Dashboard de Vendas</b> • <i>Python, Power BI</i>
+    <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" height="150" alt="Dashboard de Vendas" />
   </a>
-  <img width="30"/>
+  <img width="20"/>
   <a href="https://github.com/leomarqueszz/projeto-exemplo2" target="_blank">
-    <img src="https://user-images.githubusercontent.com/123456789/abcdefg-dashboard2.png" height="150" alt="Dashboard Financeiro" />
-    <br>
-    <b>Dashboard Financeiro</b> • <i>SQL, Power BI</i>
+    <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" height="150" alt="Dashboard Financeiro" />
   </a>
-  <img width="30"/>
+  <img width="20"/>
   <a href="https://github.com/leomarqueszz/projeto-exemplo3" target="_blank">
-    <img src="https://user-images.githubusercontent.com/123456789/abcdefg-dashboard3.png" height="150" alt="Análise de Dados" />
-    <br>
-    <b>Análise de Dados</b> • <i>Python, Machine Learning</i>
+    <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" height="150" alt="Análise de Dados" />
   </a>
 </p>
