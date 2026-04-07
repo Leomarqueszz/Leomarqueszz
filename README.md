@@ -21,7 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/python@0.0.4/lib/python.min.js" height="40" alt="nodejs logo"  />
   <img width="12" />
 </div>
 
