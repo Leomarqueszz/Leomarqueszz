@@ -19,7 +19,7 @@ Transformando dados bagunçados em insights claros e dashboards eficientes💡
 <h2 align="left">Hey there 👋</h2>
 
 <p align="left">
-Oii! Sou aluno da <b>Cruzeiro do Sul</b>, cursando <b>Análise e Desenvolvimento de Sistemas</b>.  
+Oii! Sou aluno da <b>Universidade Cruzeiro do Sul</b>, cursando <b>Análise e Desenvolvimento de Sistemas</b>.  
 Busco me profissionalizar como Analista de Dados e em Inteligência Artificial (IA).  
 Atualmente aprendendo <b>Python, SQL, Power BI e Machine Learning</b> e adoro transformar dados em ótimos insights.  
 Sempre curioso, sempre codando!
