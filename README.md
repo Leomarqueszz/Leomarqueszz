@@ -11,7 +11,7 @@
 
 <p align="center">
 <b>Análise e Desenvolvimento de Sistemas</b><br>
-💡 Transformando dados bagunçados em insights claros e dashboards eficientes
+Transformando dados bagunçados em insights claros e dashboards eficientes💡
 </p>
 
 ---
