@@ -7,9 +7,7 @@
   </a>
 </div>
 
-<p align="center">
-## 👨‍💻 Leonardo Marques - Leomarqueszz
-</p>
+<h1 align="center">👨‍💻 Leonardo Marques - Leomarqueszz</h1>
 
 <p align="center">
 <b>Análise e Desenvolvimento de Sistemas</b><br>
