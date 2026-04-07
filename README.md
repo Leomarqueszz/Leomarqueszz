@@ -14,7 +14,7 @@
 Transformando dados bagunçados em insights claros e dashboards eficientes
 </p>
 
-<p <p/>
+<br><br> <!-- aqui adiciona espaço extra -->
 
 ### Hey there 👋
 
@@ -25,7 +25,7 @@ Atualmente aprendendo <b>Python, SQL, Power BI e Machine Learning</b> e adoro tr
 Sempre curioso, sempre codando!
 </p>
 
-<p <p/>
+<br><br> <!-- aqui adiciona espaço extra -->
   
 ### 🛠️ Skills & Ferramentas
 
@@ -41,7 +41,7 @@ Sempre curioso, sempre codando!
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" height="25"/>
 </p>
 
-<p <p/>
+<br><br> <!-- aqui adiciona espaço extra -->
 
 ### 📈 Projetos / Dashboards
 
