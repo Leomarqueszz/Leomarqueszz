@@ -14,22 +14,18 @@
 Transformando dados bagunçados em insights claros e dashboards eficientes
 </p>
 
-
-
 ## Hey there 👋
 
-<p align="left">
+<p>
 Oii! Sou aluno da <b>Universidade Cruzeiro do Sul</b>, cursando <b>Análise e Desenvolvimento de Sistemas</b>.  
 Busco me profissionalizar como Analista de Dados e em Inteligência Artificial (IA).  
 Atualmente aprendendo <b>Python, SQL, Power BI e Machine Learning</b> e adoro transformar dados em ótimos insights.  
 Sempre curioso, sempre codando!
 </p>
 
+## 🛠️ Skills & Ferramentas
 
-
-<h2 align="left">🛠️ Skills & Ferramentas</h2>
-
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="25"/>
   <img width="6"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" height="25"/>
@@ -41,9 +37,7 @@ Sempre curioso, sempre codando!
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" height="25"/>
 </p>
 
-
-
-<h2 align="left">📈 Projetos / Dashboards</h2>
+## 📈 Projetos / Dashboards
 
 <p align="center">
   <a href="https://github.com/leomarqueszz/projeto-exemplo" target="_blank">
