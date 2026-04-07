@@ -10,7 +10,7 @@
 <h1 align="center">👨‍💻 Leonardo Marques - Leomarqueszz</h1>
 
 <p align="center">
-Aluno de <b>Análise de Dados</b> na <b>Cruzeiro do Sul</b> | Buscando me profissionalizar como Analista de Dados e em Inteligência Artificial (IA) <br>
+<b>Análise e Desenvolvimento de Sistemas</b><br>
 💡 Transformando dados bagunçados em insights claros e dashboards eficientes
 </p>
 
@@ -19,7 +19,7 @@ Aluno de <b>Análise de Dados</b> na <b>Cruzeiro do Sul</b> | Buscando me profis
 <h2 align="left">Hey there 👋</h2>
 
 <p align="left">
-Oii! Sou aluno da <b>Cruzeiro do Sul</b>, cursando <b>Análise de Dados</b>.  
+Oii! Sou aluno da <b>Cruzeiro do Sul</b>, cursando <b>Análise e Desenvolvimento de Sistemas</b>.  
 Busco me profissionalizar como Analista de Dados e em Inteligência Artificial (IA).  
 Atualmente aprendendo <b>Python, SQL, Power BI e Machine Learning</b> e adoro transformar dados em insights claros.  
 Sempre curioso, sempre codando!
