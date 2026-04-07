@@ -40,7 +40,6 @@ Sempre curioso, sempre codando!
   <img width="6"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" height="25"/>
 </p>
----
 
 <h2 align="left">📈 Projetos / Dashboards</h2>
 
