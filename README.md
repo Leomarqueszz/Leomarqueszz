@@ -10,14 +10,25 @@
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="GitHub" />
   </a>
 </div>
-
 <h1 align="center">👨‍💻 Leonardo Marques - Leomarqueszz</h1>
 
 <p align="center">
-<b>Análise e Desenvolvimento de Sistemas</b><br>
-Transformando dados bagunçados em insights claros e dashboards eficientes
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=Analista+de+Dados+•+Dashboards+Eficientes+•+IA+e+Python" alt="Typing SVG" />
 </p>
 
+<br><br> ### Hey there 👋
+
+<p>
+Oii! Sou aluno da <b>Universidade Cruzeiro do Sul</b>, cursando <b>Análise e Desenvolvimento de Sistemas</b>.  
+Busco me profissionalizar como Analista de Dados e em Inteligência Artificial (IA).  
+Atualmente aprendendo <b>Python, SQL, Power BI e Machine Learning</b> e adoro transformar dados em ótimos insights.  
+Sempre curioso, sempre codando!
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=leomarqueszz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomarqueszz&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
 <br><br> <!-- aqui adiciona espaço extra -->
 
 ### Hey there 👋
