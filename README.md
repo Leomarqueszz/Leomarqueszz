@@ -58,7 +58,7 @@ Sempre curioso, sempre codando!
   </p>
 
 <p align="center">
-  <img src="https://github-readme-snake.vercel.app/api/github-contribution-grid-snake?user=leomarqueszz&outline-color=00c6ff&snake-color=0072ff" alt="snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leomarqueszz&bg_color=0D1117&color=00c6ff&line=0072ff&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=80&section=footer&fontSize=0" width="100%" />
