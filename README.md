@@ -14,9 +14,8 @@
 <h1 align="center">👨‍💻 Leonardo Marques - Leomarqueszz</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=📊+Analista+de+Dados+•+Dashboards+Eficientes+•+IA+e+Python" alt="Typing SVG" />
+  <img src="URL_DO_GIF" height="50" alt="Analista de Dados + Gráfico" />
 </p>
-
 <br><br> <!-- aqui adiciona espaço extra -->
 
 ### Hey there 👋
