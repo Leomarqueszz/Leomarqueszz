@@ -20,7 +20,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="databases logo"  />
   <img width="12" />
-  <img src=<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" height="40" alt="powerbi logo" />
+  <img src=<img src="![Power BI](https://img.shields.io/badge/Power%20BI-%230076D6?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)" height="40" alt="powerbi logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="machine learning logo"  />
 </div>
