@@ -20,7 +20,9 @@
 <br><br> <!-- aqui adiciona espaço extra -->
 
 ### Hey there 👋
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomarqueszz&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+</p>
 <p>
 Oii! Sou aluno da <b>Universidade Cruzeiro do Sul</b>, cursando <b>Análise e Desenvolvimento de Sistemas</b>.  
 Busco me profissionalizar como Analista de Dados e em Inteligência Artificial (IA).  
