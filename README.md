@@ -23,7 +23,6 @@ Atualmente aprendendo <b>Python, SQL, Power BI e Machine Learning</b> e adoro tr
 Sempre curioso, sempre codando!
 </p>
 
-<br><br> <!-- espaço extra antes da próxima seção -->
 
 ### 🛠️ Skills & Ferramentas
 
@@ -39,7 +38,6 @@ Sempre curioso, sempre codando!
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" height="25"/>
 </p>
 
-<br><br> <!-- espaço extra antes da próxima seção -->
 
 ### 📈 Projetos / Dashboards
 
