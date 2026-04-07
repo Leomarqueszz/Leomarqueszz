@@ -50,12 +50,12 @@ Sempre curioso, sempre codando!
 
 <p align="center">
   <a href="https://github.com/leomarqueszz/projeto-exemplo" target="_blank">
-    <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" height="150" alt="Dashboard Example" />
+    <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" height="150" alt="Coding animation" />
   </a>
   <a href="https://github.com/leomarqueszz/projeto-exemplo2" target="_blank">
-    <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" height="150" alt="Dashboard Example 2" />
+    <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" height="150" alt="Data analysis chart animation" />
   </a>
-  </p>
+</p>
 
 
 <p align="center">
