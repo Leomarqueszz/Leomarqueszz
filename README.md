@@ -7,7 +7,7 @@
 <p align="center">Análise e Desenvolvimento de Sistemas</p>
 <h3 align="left">Hey there👋</h3>
 
-<p align="left"> Oi, sou aluno da <b>Cruzeiro do Sul</b>, cursando <b>Análise de Dados</b>.  
+<p align="left"> Oii, sou aluno da <b>Cruzeiro do Sul</b>, cursando <b>Análise de Dados</b>.  
 Busco me profissionalizar como <b>Analista de Dados</b> e em <b>Inteligência Artificial (IA)</b>.  
 Atualmente estou aprendendo <b>Python, SQL, Power BI e Machine Learning</b> e adoro transformar dados bagunçados em insights claros e dashboards eficientes.  
 Curioso e sempre codando!</p>
