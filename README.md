@@ -1,8 +1,5 @@
-<h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
-<p align="left">🛠️Leonardo Marques Silva</p>
+<h1 align="left">🛠️Leonardo Marques Silva</h1>
 
 ###
 
