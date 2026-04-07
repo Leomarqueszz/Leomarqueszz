@@ -48,12 +48,14 @@ Sempre curioso, sempre codando!
 
 ### 📈 Projetos / Dashboards
 
+### 📈 Projetos / Dashboards
+
 <p align="center">
   <a href="https://github.com/leomarqueszz/dashboard-vendas" target="_blank">
-    <img src="https://user-images.githubusercontent.com/SEU_USER/dashboard-vendas-preview.png" height="150" alt="Dashboard de Vendas" />
+    <img src="https://raw.githubusercontent.com/leomarqueszz/SEU_REPO/main/dashboard-vendas.png" height="150" alt="Dashboard de Vendas" />
   </a>
   <a href="https://github.com/leomarqueszz/user-analytics-dashboard" target="_blank">
-    <img src="https://user-images.githubusercontent.com/SEU_USER/user-analytics-preview.png" height="150" alt="Dashboard de Análise de Usuários" />
+    <img src="https://raw.githubusercontent.com/leomarqueszz/SEU_REPO/main/user-analytics.gif" height="150" alt="Dashboard de Análise de Usuários" />
   </a>
 </p>
 
