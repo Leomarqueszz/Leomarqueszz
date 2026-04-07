@@ -13,9 +13,12 @@
 
 <h1 align="center">👨‍💻 Leonardo Marques - Leomarqueszz</h1>
 
-<p align="center">
-  <img src="URL_DO_SEU_GIF" alt="Texto e Gráfico animado" />
-</p>
+<p align="center">Analista de Dados • Dashboards • IA e Python</p>
+<svg width="600" height="100">
+  <line x1="0" y1="50" x2="600" y2="50" stroke="#00c6ff" stroke-width="4">
+    <animate attributeName="x2" from="0" to="600" dur="4s" fill="freeze" />
+  </line>
+</svg>
 <br><br> <!-- aqui adiciona espaço extra -->
 
 ### Hey there 👋
