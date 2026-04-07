@@ -16,7 +16,7 @@ Transformando dados bagunçados em insights claros e dashboards eficientes
 
 ---
 
-<h2 align="left">Hey there 👋</h2>
+## Hey there 👋
 
 <p align="left">
 Oii! Sou aluno da <b>Universidade Cruzeiro do Sul</b>, cursando <b>Análise e Desenvolvimento de Sistemas</b>.  
