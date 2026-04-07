@@ -40,7 +40,9 @@ Sempre curioso, sempre codando!
   <img width="6"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" height="25"/>
 </p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer&fontSize=0" width="100%" />
+</p>****
 <br><br> <!-- aqui adiciona espaço extra -->
 
 ### 📈 Projetos / Dashboards
