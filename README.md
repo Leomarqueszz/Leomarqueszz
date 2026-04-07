@@ -14,7 +14,7 @@
 <h1 align="center">👨‍💻 Leonardo Marques - Leomarqueszz</h1>
 
 <p align="center">
-  <img src="URL_DO_GIF" height="50" alt="Analista de Dados + Gráfico" />
+  <img src="URL_DO_SEU_GIF" alt="Texto e Gráfico animado" />
 </p>
 <br><br> <!-- aqui adiciona espaço extra -->
 
