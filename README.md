@@ -72,12 +72,3 @@ Sempre curioso, sempre codando!
 </p>
 
 ---
-
-<h2 align="left">🎯 Timeline de aprendizado</h2>
-
-<p align="left">
-📅 2025: Início em Python, SQL e Machine Learning <br>
-📅 2026: Primeiros dashboards no Power BI <br>
-📅 2026: Projetos de análise de dados com datasets reais <br>
-📅 2026: Especialização em Inteligência Artificial
-</p>
