@@ -14,9 +14,7 @@
 <h1 align="center">👨‍💻 Leonardo Marques - Leomarqueszz</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=Analista+de+Dados+•+Dashboards+Eficientes+•+IA+e+Python" alt="Typing SVG" />
-  <br>
-  <img src="https://raw.githubusercontent.com/MaySway/MaySway/main/assets/line_graph.gif" width="400" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=Analista+de+Dados+•+Dashboards+Eficientes+•+IA+e+Python" alt="Typing SVG" />
 </p>
 
 <br><br> <!-- aqui adiciona espaço extra -->
