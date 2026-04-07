@@ -14,13 +14,9 @@
 <h1 align="center">👨‍💻 Leonardo Marques - Leomarqueszz</h1>
 
 <p align="center">
-<b>Análise e Desenvolvimento de Sistemas</b><br>
-Transformando dados bagunçados em insights claros e dashboards eficientes
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=Analista+de+Dados+•+Dashboards+Eficientes+•+IA+e+Python" alt="Typing SVG" />
 </p>
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=leomarqueszz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomarqueszz&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
+
 <br><br> <!-- aqui adiciona espaço extra -->
 
 ### Hey there 👋
