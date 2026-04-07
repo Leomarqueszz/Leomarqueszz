@@ -15,6 +15,8 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=Analista+de+Dados+•+Dashboards+Eficientes+•+IA+e+Python" alt="Typing SVG" />
+  <br>
+  <img src="https://media.giphy.com/media/l41lI4bEbeJ9eKzI8/giphy.gif" alt="Dynamic Data Graph" height="80" />
 </p>
 
 <br><br> <!-- aqui adiciona espaço extra -->
