@@ -51,15 +51,6 @@ Sempre curioso, sempre codando!
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=leomarqueszz&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leomarqueszz&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 <h2 align="left">📈 Projetos / Dashboards</h2>
 
 <p align="center">
