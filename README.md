@@ -46,14 +46,14 @@ Sempre curioso, sempre codando!
 
 <br><br> <!-- aqui adiciona espaço extra -->
 
-### 📈 Projetos / Dashboards
+### 📈 Dashboards
 
 <p align="center">
   <a href="https://github.com/leomarqueszz/projeto-exemplo" target="_blank">
     <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" height="150" alt="Dashboard Example" />
   </a>
-  <a href="https://github.com/leomarqueszz/projeto-exemplo2" target="_blank">
-    <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" height="150" alt="Dashboard Example 2" />
+  <a href="" target="_blank">
+    <img src="" height="150" alt="Dashboard Example 2" />
   </a>
   </p>
 
