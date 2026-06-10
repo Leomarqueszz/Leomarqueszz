@@ -49,8 +49,8 @@ Sempre curioso, sempre codando!
 ### 📈 Dashboards
 
 <p align="center">
-  <a href="https://github.com/leomarqueszz/projeto-exemplo" target="_blank">
-    <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" height="150" alt="Dashboard Example" />
+  <a href="" target="_blank">
+    <img src="" height="150" alt="Dashboard Example" />
   </a>
   <a href="" target="_blank">
     <img src="" height="150" alt="Dashboard Example 2" />
