@@ -46,9 +46,6 @@ Sempre curioso, sempre codando!
 
 <br><br> <!-- aqui adiciona espaço extra -->
 
-### 📈 Dashboards
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=80&section=footer&fontSize=0" width="100%" />
