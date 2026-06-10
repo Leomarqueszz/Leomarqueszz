@@ -48,14 +48,6 @@ Sempre curioso, sempre codando!
 
 ### 📈 Dashboards
 
-<p align="center">
-  <a href="" target="_blank">
-    <img src="" height="150" alt="Dashboard Example" />
-  </a>
-  <a href="" target="_blank">
-    <img src="" height="150" alt="Dashboard Example 2" />
-  </a>
-  </p>
 
 
 <p align="center">
